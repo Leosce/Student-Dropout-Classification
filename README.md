@@ -1,7 +1,7 @@
 # Student-Dropout-Classification
 
 ## Overview
-This Jupyter Notebook project was originally completed three months ago. Recently, I made some modifications to improve its functionality and accuracy.
+This Jupyter Notebook project was originally completed three months ago. Recently, I made some modifications to improve its functionality and accuracy. However, please note that this notebook may not be as efficient or up-to-date as some of the other notebooks available on my GitHub (e.g Bank Marketing Campaign). It serves as a valuable learning experience and showcases the progress made over time.
 
 ## Features
 - Detailed analysis and insights
